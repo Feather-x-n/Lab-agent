@@ -2,6 +2,7 @@
 
 一个面向高校实验室的预约管理系统，包含 **学生 / 管理员** 两端 Web 界面，并接入基于 **LangGraph + RAG** 的 AI 助手。用户可以用自然语言查询实验室、设备和规章制度，并在对话中完成真实预约。
 
+[![GitHub](https://img.shields.io/badge/GitHub-Feather--x--n%2FLab--agent-181717?logo=github)](https://github.com/Feather-x-n/Lab-agent)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-3.5-42B883?logo=vue.js&logoColor=white)
@@ -118,8 +119,8 @@ lab-agent/
 ### 1. 克隆项目
 
 ```bash
-git clone <your-repo-url>
-cd lab-agent
+git clone https://github.com/Feather-x-n/Lab-agent.git
+cd Lab-agent
 ```
 
 ### 2. 准备后端
